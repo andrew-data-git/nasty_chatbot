@@ -5,11 +5,11 @@
 
 | Date Started | Date Completed |
 | ------ | ------ |
-| 24/11/2024 | --/11/2024 |
+| 24/11/2024 | 24/11/2024 |
 
 Using the Google ai chatbot, and tkinter for a simple GUI, implements a chatbot.
 
-![](https://github.com/andrew-data-git/repo/blob/main/demo.gif)
+![](https://github.com/andrew-data-git/nasty_chatbot/blob/main/demo.gif)
 
 ## Features
 
